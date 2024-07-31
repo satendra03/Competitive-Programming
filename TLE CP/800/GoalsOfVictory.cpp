@@ -2,7 +2,8 @@
 Code by: Satendra Kumar Parteti
 GitHub: https://github.com/satendra03
 Instagram: https://instagram.com/_satendra_03
-Approach:
+Approach: After some observation, the negative of sum of the efficiency is the efficiency of the remaining team
+It can be found simply if we make a chart of efficiency calculation for each team and then adding them..
 */
 
 #include <bits/stdc++.h>
