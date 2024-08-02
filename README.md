@@ -23,7 +23,7 @@ To get started with the solutions in this repository:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/satendra03/Competitive-Programming.git
    ```
 2. **Navigate to the Problem Directory**
    ```sh
