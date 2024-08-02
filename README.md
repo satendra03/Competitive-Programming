@@ -55,6 +55,6 @@ This repository is licensed under the MIT License.
 
 For any questions or feedback, you can reach me at:
 - **GitHub**: [GitHub](https://github.com/satendra03)
-- **LinkedIn**: [Satendra Kumar Parteti](linkedin.com/in/connect-to-satendra/)
+- **LinkedIn**: [Satendra Kumar Parteti](https://linkedin.com/in/connect-to-satendra/)
 - **Instagram**: [Instagram](https://www.instagram.com/_satendra_03/)
 ---
