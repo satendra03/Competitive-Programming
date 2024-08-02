@@ -27,7 +27,7 @@ To get started with the solutions in this repository:
    ```
 2. **Navigate to the Problem Directory**
    ```sh
-   cd Problems/PlatformName/Level/ProblemName.cpp
+   cd [PlatformName]/[Level]/ProblemName.cpp
    ```
 3. **Compile and Run the Code**
    ```sh
